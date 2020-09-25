@@ -1,3 +1,3 @@
-# Create Chart Data in PHP and MySQL
+## Create Chart Data in PHP and MySQL
 
-#### Morris Chart
+1. Morris Chart
